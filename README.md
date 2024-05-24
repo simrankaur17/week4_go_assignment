@@ -1,5 +1,5 @@
 
-# week4_go_assignment  Simran Kaur(500224468)
+# week4_go_assignment  (Simran Kaur-500224468)
 # Purpose
 I created a main.go file using go programming language and this program prints a personalized greeting message.
 Readme file is included to give the overview of assignment.
